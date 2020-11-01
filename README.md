@@ -12,6 +12,7 @@ Then I started by reorganizing the CSS into groups followed by comments that I a
 I then went back into the HTML and added alts to all the picures that needed them.
 I then centered the text and matched the color of the blue so that the right and left sides of the page matched to make it more aesthetically pleasing.
 After that I fixed the footer and changed the CSS.
+Then I formatted the HTML and CSS.
 
 Here is a link to the live site:
 https://bbec0689.github.io/horiseon-rework/

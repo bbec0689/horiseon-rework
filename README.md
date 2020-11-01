@@ -14,3 +14,4 @@ I then centered the text and matched the color of the blue so that the right and
 After that I fixed the footer and changed the CSS.
 
 Here is a link to the live site:
+https://bbec0689.github.io/horiseon-rework/
